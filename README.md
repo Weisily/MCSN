@@ -30,4 +30,4 @@ python main.py --model MCSN --data_test Set5+Set14+B100+Urban100+Manga109  --sca
 ![Network](https://github.com/Weisily/MCSN/Figs/Network.png)
 ![Parameters](https://github.com/Weisily/MCSN/Figs/Parameters.png)
 ![CSAM](https://github.com/Weisily/MCSN/Figs/CSAM.png)
-![PSNR&SSIM X2](https://github.com/Weisily/MCSN/Figs/PSNR&SSIMX2.png)
+![PSNR&SSIMX2](https://github.com/Weisily/MCSN/Figs/PSNR&SSIMX2.png)
