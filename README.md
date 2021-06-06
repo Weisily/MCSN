@@ -29,8 +29,9 @@ python main.py --model MCSN--scale 8 --save mcsn_x8  --n_resblocks 3  --lr 1e-4 
 python main.py --model MCSN --data_test Set5+Set14+B100+Urban100+Manga109  --scale 4 --pre_train ../experiment/mscn_x4/model/model_best.pt --test_only  --self_ensemble
 ```
 # Results
-<p align="center">MCSN structure </p> 
+## MCSN Network 
 ![Network](https://github.com/Weisily/MCSN/blob/main/Figs/Network.png)
-
+## Parameters 
 ![Parameters](https://github.com/Weisily/MCSN/blob/main/Figs/Parameters.png)
+## PSNR&SSIM X2
 ![PSNR&SSIMX2](https://github.com/Weisily/MCSN/blob/main/Figs//PSNR&SSIMX2.png)
