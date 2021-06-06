@@ -1,6 +1,6 @@
 # MCSN
-This repository is an official PyTorch implementation of the [paper]
-(https://www.sciencedirect.com/science/article/pii/S0925231221008535)
+This repository is an official PyTorch implementation of the [paper](https://www.sciencedirect.com/science/article/pii/S0925231221008535)
+
 "Li W, Li J, Li J, et al. A lightweight multi-scale channel attention network for image super-resolution[J]. Neurocomputing, 2021.".
 The code is built on EDSR (Torch) and tested on Ubuntu 18.04 environment  with TitanX 2080Ti GPU.
 # Dependencies
